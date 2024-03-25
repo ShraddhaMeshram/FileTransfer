@@ -1,7 +1,7 @@
-##FileTransfer Project
+## FileTransfer Project
 This project aims to provide a seamless and efficient file transfer solution utilizing various technologies including NodeJS, ExpressJS, Web Sockets, WebRTC, and NextJS. The project focuses on delivering a user-friendly interface and high-speed file transfer capabilities.
 
-###Features
+### Features
 NextJS Interface: Developed a user-friendly interface using NextJS, ensuring a seamless and intuitive experience for users.
 
 Signaling Server: Implemented a signaling server with NodeJS & web sockets (Socket.io) to enable real-time communication between users.
@@ -12,7 +12,7 @@ Non-blocking Functionality: Enhanced user experience by implementing non-blockin
 
 Impressive Transfer Speeds: Achieved impressive file transfer speeds, averaging around 1 minute & 30 seconds for transferring a 1GB file between end-users.
 
-###Setup
+### Setup
 To set up the project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/your_username/FileTransfer.git
