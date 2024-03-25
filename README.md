@@ -2,7 +2,7 @@
 This project aims to provide a seamless and efficient file transfer solution utilizing various technologies including NodeJS, ExpressJS, Web Sockets, WebRTC, and NextJS. The project focuses on delivering a user-friendly interface and high-speed file transfer capabilities.
 
 ### Features
-NextJS Interface: Developed a user-friendly interface using NextJS, ensuring a seamless and intuitive experience for users.
+**NextJS Interface:** Developed a user-friendly interface using NextJS, ensuring a seamless and intuitive experience for users.
 
 Signaling Server: Implemented a signaling server with NodeJS & web sockets (Socket.io) to enable real-time communication between users.
 
